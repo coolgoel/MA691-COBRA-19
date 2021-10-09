@@ -1,4 +1,4 @@
-# MA691-Project
+# MA691-COBRA-19
 Group Project for the course MA691 (Advanced Statistical Algorithms)
 
 To run the code follow the steps - 

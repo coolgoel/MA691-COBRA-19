@@ -1,4 +1,6 @@
 # MA691-COBRA-19
+**** Disclaimer: This work is for learning purpose only.  The work can not be used for publication or as commercial products, etc without instructor’s consent.****
+
 Group Project for the course MA691 (Advanced Statistical Algorithms)
 
 To run the code follow the steps - 

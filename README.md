@@ -2,6 +2,17 @@
 **** Disclaimer: This work is for learning purpose only.  The work can not be used for publication or as commercial products, etc without instructor’s consent.****
 
 Group Project for the course MA691 (Advanced Statistical Algorithms)
+Instructor: Dr. Arabin Kumar Dey
+
+Group Members:
+1. Mohammad Humam Khan
+2. Kartikeya Singh
+3. Sourav Goel
+4. Pragati Mahamune
+5. Milind B Prabhu
+
+Insurance Premium Calculator live at: https://insurancepremiumcobra.herokuapp.com/
+
 
 To run the code follow the steps - 
 
